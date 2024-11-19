@@ -1,0 +1,1 @@
+Testing audio streaming with a small convolutional neural network to try and classify streamed sounds
