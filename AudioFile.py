@@ -1,3 +1,6 @@
+### A program that  will accept an audio file and transform to a linear spectrogram (trying to avoid the mel spectrogram s seems to be absed on bringing in line with human hearing range? seems unnecessary for this usecase)
+### TODO: create a chart that generates whilst playing the file, to count gunshots.
+
 import librosa
 import numpy as np
 import tensorflow as tf

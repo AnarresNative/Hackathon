@@ -1,3 +1,6 @@
+### A program that  will accept a live audio stream from device specified  with -d  in the command line. 
+### Want to adapt so that instead of being  plotted with matplotlib (current config) will pass to trained model to classify, count and output as JSON.
+
 import argparse
 import queue
 import sys
